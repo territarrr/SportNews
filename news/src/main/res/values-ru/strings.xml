@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Новости Спорта</string>
+    <string name="cat_football">Футбол</string>
+    <string name="cat_hockey">Хоккей</string>
+    <string name="cat_tennis">Теннис</string>
+    <string name="cat_basketball">Баскетбол</string>
+    <string name="cat_volleyball">Волейбол</string>
+    <string name="cat_cybersport">Киберспорт</string>
+    <string name="vs">VS</string>
+    <string name="prediction">Прогноз:</string>
+    <string name="err_no_internet">Нет сети</string>
+</resources>
